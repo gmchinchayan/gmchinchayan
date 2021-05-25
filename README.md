@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @gmchinchayan
+- 👋 Hi There
+I’m @gmchinchayan
 Welcome to my github channel!
 My name is Gustavo Chinchayan, I am a Peruvian living the Middle East. I have nearly 6 years of auditing experience in the financial services industry. I have decided to change my career direction and enter the field of Applied Data Science and Statistics
 - 👀 I’m interested in ...in learning the field of machine learning and AI in corporate recruiting and financial industries. Will be posting some projects on these areas.
